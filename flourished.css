@@ -1,0 +1,15 @@
+.root {
+    -fx-background-color: #ccccff;
+}
+.label {
+    -fx-font-size: 20;
+    -fx-text-fill: purple;
+    -fx-font-family: "Brush Script MT";
+    -fx-font-weight: bold;
+    -fx-underline: true;
+}
+.text {
+    -fx-font-size: 14;
+    -fx-text-fill: purple;
+    -fx-font-family: "Brush Script MT";
+}
